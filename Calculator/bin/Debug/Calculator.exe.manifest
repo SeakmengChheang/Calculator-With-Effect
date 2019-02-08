@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Calculator.exe" size="474080">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Calculator.exe" size="473088">
       <assemblyIdentity name="Calculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SSO635gV+yJxhL/Sk4HK5n/Hw11pfVHWV3XyMsmpVrU=</dsig:DigestValue>
+        <dsig:DigestValue>C2kHMZ+u0KtRN8JbJZTTFCkHhZ7amNEUTRQJwrbaGTY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -113,13 +113,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Calculator.exe.config" size="932">
+  <file name="Calculator.exe.config" size="927">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>a5II9HY1kkjpGEHWbZaxTvlPmkUyg7Yki2bEU6kGG+0=</dsig:DigestValue>
+      <dsig:DigestValue>QXLNXYn4t1psW3PueKIhgzVmLHVMKB3BbyN9yIOD6Ks=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
