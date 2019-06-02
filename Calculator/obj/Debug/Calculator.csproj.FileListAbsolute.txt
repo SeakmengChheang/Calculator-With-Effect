@@ -40,3 +40,22 @@ E:\C# Win Forms\Calculator\Calculator\bin\Debug\Calculator.application
 E:\C# Win Forms\Calculator\Calculator\obj\Debug\Calculator.TrustInfo.xml
 E:\C# Win Forms\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
 E:\C# Win Forms\Calculator\Calculator\obj\Debug\Calculator.application
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\bin\Debug\Calculator.application
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\bin\Debug\Calculator.exe
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\bin\Debug\MetroFramework.Design.dll
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\bin\Debug\MetroFramework.dll
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.TrustInfo.xml
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.application
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.exe
+C:\Users\Raymond MLD\Desktop\Calculator-With-Effect\Calculator\obj\Debug\Calculator.pdb

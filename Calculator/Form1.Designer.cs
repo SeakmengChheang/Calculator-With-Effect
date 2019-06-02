@@ -95,7 +95,7 @@
             this.tableLayoutPanel1.Controls.Add(this.panel1, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.btn1overX, 3, 1);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(20, 60);
             this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(5);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 7;
@@ -107,13 +107,13 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.52631F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.52631F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(456, 601);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(417, 591);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // btnC
             // 
             this.btnC.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnC.BackColor = System.Drawing.Color.Lavender;
+            this.btnC.BackColor = System.Drawing.Color.WhiteSmoke;
             this.tableLayoutPanel1.SetColumnSpan(this.btnC, 2);
             this.btnC.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnC.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
@@ -121,11 +121,11 @@
             this.btnC.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnC.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btnC.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnC.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnC.Location = new System.Drawing.Point(2, 286);
+            this.btnC.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnC.Location = new System.Drawing.Point(2, 281);
             this.btnC.Margin = new System.Windows.Forms.Padding(2);
             this.btnC.Name = "btnC";
-            this.btnC.Size = new System.Drawing.Size(224, 59);
+            this.btnC.Size = new System.Drawing.Size(204, 58);
             this.btnC.TabIndex = 30;
             this.btnC.TabStop = false;
             this.btnC.Text = "C";
@@ -142,12 +142,12 @@
             this.btnMod.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Navy;
             this.btnMod.FlatAppearance.MouseOverBackColor = System.Drawing.Color.AliceBlue;
             this.btnMod.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMod.Font = new System.Drawing.Font("Fira Code Retina", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMod.Location = new System.Drawing.Point(3, 224);
+            this.btnMod.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMod.Location = new System.Drawing.Point(3, 220);
             this.btnMod.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnMod.Name = "btnMod";
             this.btnMod.Primary = true;
-            this.btnMod.Size = new System.Drawing.Size(108, 57);
+            this.btnMod.Size = new System.Drawing.Size(98, 56);
             this.btnMod.TabIndex = 29;
             this.btnMod.Text = "Mod";
             this.btnMod.UseVisualStyleBackColor = true;
@@ -161,11 +161,11 @@
             this.btnPower.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Navy;
             this.btnPower.FlatAppearance.MouseOverBackColor = System.Drawing.Color.AliceBlue;
             this.btnPower.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPower.Location = new System.Drawing.Point(231, 224);
+            this.btnPower.Location = new System.Drawing.Point(211, 220);
             this.btnPower.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnPower.Name = "btnPower";
             this.btnPower.Primary = true;
-            this.btnPower.Size = new System.Drawing.Size(108, 57);
+            this.btnPower.Size = new System.Drawing.Size(98, 56);
             this.btnPower.TabIndex = 28;
             this.btnPower.Text = "x^y";
             this.btnPower.UseVisualStyleBackColor = true;
@@ -181,12 +181,12 @@
             this.btnSqrt.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Navy;
             this.btnSqrt.FlatAppearance.MouseOverBackColor = System.Drawing.Color.AliceBlue;
             this.btnSqrt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSqrt.Font = new System.Drawing.Font("Fira Code Retina", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSqrt.Location = new System.Drawing.Point(117, 224);
+            this.btnSqrt.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSqrt.Location = new System.Drawing.Point(107, 220);
             this.btnSqrt.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnSqrt.Name = "btnSqrt";
             this.btnSqrt.Primary = true;
-            this.btnSqrt.Size = new System.Drawing.Size(108, 57);
+            this.btnSqrt.Size = new System.Drawing.Size(98, 56);
             this.btnSqrt.TabIndex = 27;
             this.btnSqrt.Text = "√";
             this.btnSqrt.UseVisualStyleBackColor = true;
@@ -197,18 +197,18 @@
             // btnSeven
             // 
             this.btnSeven.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnSeven.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnSeven.BackColor = System.Drawing.Color.White;
             this.btnSeven.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnSeven.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnSeven.FlatAppearance.BorderSize = 0;
             this.btnSeven.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnSeven.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnSeven.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSeven.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSeven.Location = new System.Drawing.Point(2, 349);
+            this.btnSeven.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSeven.Location = new System.Drawing.Point(2, 343);
             this.btnSeven.Margin = new System.Windows.Forms.Padding(2);
             this.btnSeven.Name = "btnSeven";
-            this.btnSeven.Size = new System.Drawing.Size(110, 59);
+            this.btnSeven.Size = new System.Drawing.Size(100, 58);
             this.btnSeven.TabIndex = 24;
             this.btnSeven.TabStop = false;
             this.btnSeven.Text = "7";
@@ -220,18 +220,18 @@
             // btnEqual
             // 
             this.btnEqual.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnEqual.BackColor = System.Drawing.Color.Lavender;
+            this.btnEqual.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btnEqual.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnEqual.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnEqual.FlatAppearance.BorderSize = 0;
             this.btnEqual.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnEqual.FlatAppearance.MouseOverBackColor = System.Drawing.Color.SteelBlue;
             this.btnEqual.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEqual.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEqual.Location = new System.Drawing.Point(344, 538);
+            this.btnEqual.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEqual.Location = new System.Drawing.Point(314, 529);
             this.btnEqual.Margin = new System.Windows.Forms.Padding(2);
             this.btnEqual.Name = "btnEqual";
-            this.btnEqual.Size = new System.Drawing.Size(110, 61);
+            this.btnEqual.Size = new System.Drawing.Size(101, 60);
             this.btnEqual.TabIndex = 23;
             this.btnEqual.TabStop = false;
             this.btnEqual.Text = "=";
@@ -243,18 +243,18 @@
             // btnDot
             // 
             this.btnDot.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnDot.BackColor = System.Drawing.Color.Lavender;
+            this.btnDot.BackColor = System.Drawing.Color.White;
             this.btnDot.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnDot.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnDot.FlatAppearance.BorderSize = 0;
             this.btnDot.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnDot.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btnDot.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDot.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDot.Location = new System.Drawing.Point(230, 538);
+            this.btnDot.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDot.Location = new System.Drawing.Point(210, 529);
             this.btnDot.Margin = new System.Windows.Forms.Padding(2);
             this.btnDot.Name = "btnDot";
-            this.btnDot.Size = new System.Drawing.Size(110, 61);
+            this.btnDot.Size = new System.Drawing.Size(100, 60);
             this.btnDot.TabIndex = 22;
             this.btnDot.TabStop = false;
             this.btnDot.Text = ".";
@@ -266,18 +266,18 @@
             // btnZero
             // 
             this.btnZero.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnZero.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnZero.BackColor = System.Drawing.Color.White;
             this.btnZero.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnZero.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnZero.FlatAppearance.BorderSize = 0;
             this.btnZero.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnZero.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnZero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnZero.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnZero.Location = new System.Drawing.Point(116, 538);
+            this.btnZero.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnZero.Location = new System.Drawing.Point(106, 529);
             this.btnZero.Margin = new System.Windows.Forms.Padding(2);
             this.btnZero.Name = "btnZero";
-            this.btnZero.Size = new System.Drawing.Size(110, 61);
+            this.btnZero.Size = new System.Drawing.Size(100, 60);
             this.btnZero.TabIndex = 21;
             this.btnZero.TabStop = false;
             this.btnZero.Text = "0";
@@ -289,18 +289,18 @@
             // btnNegPos
             // 
             this.btnNegPos.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnNegPos.BackColor = System.Drawing.Color.Lavender;
+            this.btnNegPos.BackColor = System.Drawing.Color.White;
             this.btnNegPos.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnNegPos.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnNegPos.FlatAppearance.BorderSize = 0;
             this.btnNegPos.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnNegPos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btnNegPos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNegPos.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNegPos.Location = new System.Drawing.Point(2, 538);
+            this.btnNegPos.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNegPos.Location = new System.Drawing.Point(2, 529);
             this.btnNegPos.Margin = new System.Windows.Forms.Padding(2);
             this.btnNegPos.Name = "btnNegPos";
-            this.btnNegPos.Size = new System.Drawing.Size(110, 61);
+            this.btnNegPos.Size = new System.Drawing.Size(100, 60);
             this.btnNegPos.TabIndex = 20;
             this.btnNegPos.TabStop = false;
             this.btnNegPos.Text = "+/-";
@@ -312,18 +312,18 @@
             // btnPlus
             // 
             this.btnPlus.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnPlus.BackColor = System.Drawing.Color.Lavender;
+            this.btnPlus.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btnPlus.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnPlus.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnPlus.FlatAppearance.BorderSize = 0;
             this.btnPlus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnPlus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.SteelBlue;
             this.btnPlus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPlus.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPlus.Location = new System.Drawing.Point(344, 475);
+            this.btnPlus.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPlus.Location = new System.Drawing.Point(314, 467);
             this.btnPlus.Margin = new System.Windows.Forms.Padding(2);
             this.btnPlus.Name = "btnPlus";
-            this.btnPlus.Size = new System.Drawing.Size(110, 59);
+            this.btnPlus.Size = new System.Drawing.Size(101, 58);
             this.btnPlus.TabIndex = 19;
             this.btnPlus.TabStop = false;
             this.btnPlus.Text = "+";
@@ -335,18 +335,18 @@
             // btnThree
             // 
             this.btnThree.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnThree.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnThree.BackColor = System.Drawing.Color.White;
             this.btnThree.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnThree.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnThree.FlatAppearance.BorderSize = 0;
             this.btnThree.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnThree.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnThree.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnThree.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnThree.Location = new System.Drawing.Point(230, 475);
+            this.btnThree.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnThree.Location = new System.Drawing.Point(210, 467);
             this.btnThree.Margin = new System.Windows.Forms.Padding(2);
             this.btnThree.Name = "btnThree";
-            this.btnThree.Size = new System.Drawing.Size(110, 59);
+            this.btnThree.Size = new System.Drawing.Size(100, 58);
             this.btnThree.TabIndex = 18;
             this.btnThree.TabStop = false;
             this.btnThree.Text = "3";
@@ -358,18 +358,18 @@
             // btnTwo
             // 
             this.btnTwo.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnTwo.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnTwo.BackColor = System.Drawing.Color.White;
             this.btnTwo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnTwo.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnTwo.FlatAppearance.BorderSize = 0;
             this.btnTwo.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnTwo.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnTwo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnTwo.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTwo.Location = new System.Drawing.Point(116, 475);
+            this.btnTwo.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTwo.Location = new System.Drawing.Point(106, 467);
             this.btnTwo.Margin = new System.Windows.Forms.Padding(2);
             this.btnTwo.Name = "btnTwo";
-            this.btnTwo.Size = new System.Drawing.Size(110, 59);
+            this.btnTwo.Size = new System.Drawing.Size(100, 58);
             this.btnTwo.TabIndex = 17;
             this.btnTwo.TabStop = false;
             this.btnTwo.Text = "2";
@@ -381,18 +381,18 @@
             // btnOne
             // 
             this.btnOne.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnOne.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnOne.BackColor = System.Drawing.Color.White;
             this.btnOne.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnOne.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnOne.FlatAppearance.BorderSize = 0;
             this.btnOne.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnOne.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnOne.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOne.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnOne.Location = new System.Drawing.Point(2, 475);
+            this.btnOne.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOne.Location = new System.Drawing.Point(2, 467);
             this.btnOne.Margin = new System.Windows.Forms.Padding(2);
             this.btnOne.Name = "btnOne";
-            this.btnOne.Size = new System.Drawing.Size(110, 59);
+            this.btnOne.Size = new System.Drawing.Size(100, 58);
             this.btnOne.TabIndex = 16;
             this.btnOne.TabStop = false;
             this.btnOne.Text = "1";
@@ -404,18 +404,18 @@
             // btnSubstract
             // 
             this.btnSubstract.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnSubstract.BackColor = System.Drawing.Color.Lavender;
+            this.btnSubstract.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btnSubstract.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnSubstract.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnSubstract.FlatAppearance.BorderSize = 0;
             this.btnSubstract.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnSubstract.FlatAppearance.MouseOverBackColor = System.Drawing.Color.SteelBlue;
             this.btnSubstract.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSubstract.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSubstract.Location = new System.Drawing.Point(344, 412);
+            this.btnSubstract.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSubstract.Location = new System.Drawing.Point(314, 405);
             this.btnSubstract.Margin = new System.Windows.Forms.Padding(2);
             this.btnSubstract.Name = "btnSubstract";
-            this.btnSubstract.Size = new System.Drawing.Size(110, 59);
+            this.btnSubstract.Size = new System.Drawing.Size(101, 58);
             this.btnSubstract.TabIndex = 15;
             this.btnSubstract.TabStop = false;
             this.btnSubstract.Text = "-";
@@ -427,18 +427,18 @@
             // btnSix
             // 
             this.btnSix.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnSix.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnSix.BackColor = System.Drawing.Color.White;
             this.btnSix.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnSix.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnSix.FlatAppearance.BorderSize = 0;
             this.btnSix.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnSix.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnSix.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSix.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSix.Location = new System.Drawing.Point(230, 412);
+            this.btnSix.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSix.Location = new System.Drawing.Point(210, 405);
             this.btnSix.Margin = new System.Windows.Forms.Padding(2);
             this.btnSix.Name = "btnSix";
-            this.btnSix.Size = new System.Drawing.Size(110, 59);
+            this.btnSix.Size = new System.Drawing.Size(100, 58);
             this.btnSix.TabIndex = 14;
             this.btnSix.TabStop = false;
             this.btnSix.Text = "6";
@@ -450,18 +450,18 @@
             // btnFive
             // 
             this.btnFive.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnFive.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnFive.BackColor = System.Drawing.Color.White;
             this.btnFive.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnFive.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnFive.FlatAppearance.BorderSize = 0;
             this.btnFive.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnFive.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnFive.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnFive.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFive.Location = new System.Drawing.Point(116, 412);
+            this.btnFive.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFive.Location = new System.Drawing.Point(106, 405);
             this.btnFive.Margin = new System.Windows.Forms.Padding(2);
             this.btnFive.Name = "btnFive";
-            this.btnFive.Size = new System.Drawing.Size(110, 59);
+            this.btnFive.Size = new System.Drawing.Size(100, 58);
             this.btnFive.TabIndex = 13;
             this.btnFive.TabStop = false;
             this.btnFive.Text = "5";
@@ -473,18 +473,18 @@
             // btnFour
             // 
             this.btnFour.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnFour.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnFour.BackColor = System.Drawing.Color.White;
             this.btnFour.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnFour.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnFour.FlatAppearance.BorderSize = 0;
             this.btnFour.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnFour.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnFour.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnFour.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFour.Location = new System.Drawing.Point(2, 412);
+            this.btnFour.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFour.Location = new System.Drawing.Point(2, 405);
             this.btnFour.Margin = new System.Windows.Forms.Padding(2);
             this.btnFour.Name = "btnFour";
-            this.btnFour.Size = new System.Drawing.Size(110, 59);
+            this.btnFour.Size = new System.Drawing.Size(100, 58);
             this.btnFour.TabIndex = 12;
             this.btnFour.TabStop = false;
             this.btnFour.Text = "4";
@@ -496,18 +496,18 @@
             // btnMultiply
             // 
             this.btnMultiply.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnMultiply.BackColor = System.Drawing.Color.Lavender;
+            this.btnMultiply.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btnMultiply.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnMultiply.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnMultiply.FlatAppearance.BorderSize = 0;
             this.btnMultiply.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnMultiply.FlatAppearance.MouseOverBackColor = System.Drawing.Color.SteelBlue;
             this.btnMultiply.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMultiply.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMultiply.Location = new System.Drawing.Point(344, 349);
+            this.btnMultiply.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMultiply.Location = new System.Drawing.Point(314, 343);
             this.btnMultiply.Margin = new System.Windows.Forms.Padding(2);
             this.btnMultiply.Name = "btnMultiply";
-            this.btnMultiply.Size = new System.Drawing.Size(110, 59);
+            this.btnMultiply.Size = new System.Drawing.Size(101, 58);
             this.btnMultiply.TabIndex = 11;
             this.btnMultiply.TabStop = false;
             this.btnMultiply.Text = "x";
@@ -519,18 +519,18 @@
             // btnNine
             // 
             this.btnNine.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnNine.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnNine.BackColor = System.Drawing.Color.White;
             this.btnNine.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnNine.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnNine.FlatAppearance.BorderSize = 0;
             this.btnNine.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnNine.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnNine.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNine.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNine.Location = new System.Drawing.Point(230, 349);
+            this.btnNine.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNine.Location = new System.Drawing.Point(210, 343);
             this.btnNine.Margin = new System.Windows.Forms.Padding(2);
             this.btnNine.Name = "btnNine";
-            this.btnNine.Size = new System.Drawing.Size(110, 59);
+            this.btnNine.Size = new System.Drawing.Size(100, 58);
             this.btnNine.TabIndex = 10;
             this.btnNine.TabStop = false;
             this.btnNine.Text = "9";
@@ -542,18 +542,18 @@
             // btnEight
             // 
             this.btnEight.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnEight.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.btnEight.BackColor = System.Drawing.Color.White;
             this.btnEight.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnEight.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnEight.FlatAppearance.BorderSize = 0;
             this.btnEight.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnEight.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
             this.btnEight.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEight.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEight.Location = new System.Drawing.Point(116, 349);
+            this.btnEight.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEight.Location = new System.Drawing.Point(106, 343);
             this.btnEight.Margin = new System.Windows.Forms.Padding(2);
             this.btnEight.Name = "btnEight";
-            this.btnEight.Size = new System.Drawing.Size(110, 59);
+            this.btnEight.Size = new System.Drawing.Size(100, 58);
             this.btnEight.TabIndex = 9;
             this.btnEight.TabStop = false;
             this.btnEight.Text = "8";
@@ -565,18 +565,18 @@
             // btnDivide
             // 
             this.btnDivide.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnDivide.BackColor = System.Drawing.Color.Lavender;
+            this.btnDivide.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btnDivide.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnDivide.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btnDivide.FlatAppearance.BorderSize = 0;
             this.btnDivide.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnDivide.FlatAppearance.MouseOverBackColor = System.Drawing.Color.SteelBlue;
             this.btnDivide.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDivide.Font = new System.Drawing.Font("Fira Code Retina", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDivide.Location = new System.Drawing.Point(344, 286);
+            this.btnDivide.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDivide.Location = new System.Drawing.Point(314, 281);
             this.btnDivide.Margin = new System.Windows.Forms.Padding(2);
             this.btnDivide.Name = "btnDivide";
-            this.btnDivide.Size = new System.Drawing.Size(110, 59);
+            this.btnDivide.Size = new System.Drawing.Size(101, 58);
             this.btnDivide.TabIndex = 7;
             this.btnDivide.TabStop = false;
             this.btnDivide.Text = "/";
@@ -588,7 +588,7 @@
             // btnDelete
             // 
             this.btnDelete.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnDelete.BackColor = System.Drawing.Color.Lavender;
+            this.btnDelete.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btnDelete.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnDelete.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnDelete.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
@@ -596,11 +596,11 @@
             this.btnDelete.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.btnDelete.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btnDelete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDelete.Font = new System.Drawing.Font("Segoe MDL2 Assets", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDelete.Location = new System.Drawing.Point(230, 286);
+            this.btnDelete.Font = new System.Drawing.Font("Segoe MDL2 Assets", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDelete.Location = new System.Drawing.Point(210, 281);
             this.btnDelete.Margin = new System.Windows.Forms.Padding(2);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(110, 59);
+            this.btnDelete.Size = new System.Drawing.Size(100, 58);
             this.btnDelete.TabIndex = 6;
             this.btnDelete.TabStop = false;
             this.btnDelete.Text = "";
@@ -617,7 +617,7 @@
             this.panel1.Location = new System.Drawing.Point(4, 1);
             this.panel1.Margin = new System.Windows.Forms.Padding(4, 1, 4, 1);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(448, 219);
+            this.panel1.Size = new System.Drawing.Size(409, 215);
             this.panel1.TabIndex = 4;
             // 
             // panel2
@@ -630,7 +630,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(448, 219);
+            this.panel2.Size = new System.Drawing.Size(409, 215);
             this.panel2.TabIndex = 2;
             // 
             // checkEffect
@@ -639,7 +639,7 @@
             this.checkEffect.AutoSize = true;
             this.checkEffect.Depth = 0;
             this.checkEffect.Font = new System.Drawing.Font("Roboto", 10F);
-            this.checkEffect.Location = new System.Drawing.Point(366, 8);
+            this.checkEffect.Location = new System.Drawing.Point(327, 1);
             this.checkEffect.Margin = new System.Windows.Forms.Padding(0);
             this.checkEffect.MouseLocation = new System.Drawing.Point(-1, -1);
             this.checkEffect.MouseState = MaterialSkin.MouseState.HOVER;
@@ -655,11 +655,11 @@
             // 
             this.lblOld.BackColor = System.Drawing.Color.White;
             this.lblOld.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.lblOld.Font = new System.Drawing.Font("Fira Code Retina", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblOld.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblOld.ForeColor = System.Drawing.Color.Silver;
-            this.lblOld.Location = new System.Drawing.Point(0, 30);
+            this.lblOld.Location = new System.Drawing.Point(0, 26);
             this.lblOld.Name = "lblOld";
-            this.lblOld.Size = new System.Drawing.Size(448, 35);
+            this.lblOld.Size = new System.Drawing.Size(409, 35);
             this.lblOld.TabIndex = 1;
             this.lblOld.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
@@ -668,11 +668,11 @@
             this.lblResult.BackColor = System.Drawing.Color.White;
             this.lblResult.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.lblResult.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.lblResult.Font = new System.Drawing.Font("Fira Code Retina", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblResult.ForeColor = System.Drawing.Color.DimGray;
-            this.lblResult.Location = new System.Drawing.Point(0, 65);
+            this.lblResult.Location = new System.Drawing.Point(0, 61);
             this.lblResult.Name = "lblResult";
-            this.lblResult.Size = new System.Drawing.Size(448, 154);
+            this.lblResult.Size = new System.Drawing.Size(409, 154);
             this.lblResult.TabIndex = 0;
             this.lblResult.Text = "0";
             this.lblResult.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -686,11 +686,11 @@
             this.btn1overX.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Navy;
             this.btn1overX.FlatAppearance.MouseOverBackColor = System.Drawing.Color.AliceBlue;
             this.btn1overX.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1overX.Location = new System.Drawing.Point(345, 224);
+            this.btn1overX.Location = new System.Drawing.Point(315, 220);
             this.btn1overX.MouseState = MaterialSkin.MouseState.HOVER;
             this.btn1overX.Name = "btn1overX";
             this.btn1overX.Primary = true;
-            this.btn1overX.Size = new System.Drawing.Size(108, 57);
+            this.btn1overX.Size = new System.Drawing.Size(99, 56);
             this.btn1overX.TabIndex = 25;
             this.btn1overX.Text = "1/x";
             this.btn1overX.UseVisualStyleBackColor = true;
@@ -705,9 +705,9 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.AutoValidate = System.Windows.Forms.AutoValidate.Disable;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(456, 601);
+            this.ClientSize = new System.Drawing.Size(457, 671);
             this.Controls.Add(this.tableLayoutPanel1);
-            this.Font = new System.Drawing.Font("Fira Code Retina", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
